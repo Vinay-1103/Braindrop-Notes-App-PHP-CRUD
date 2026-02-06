@@ -1,4 +1,3 @@
-# Braindrop-Notes-App-PHP-CRUD
 # BrainDrop – Notes Management Web Application
 
 ---
@@ -68,7 +67,7 @@
 ## Screenshots
 
 ### Notes Dashboard
-![Notes Dashboard](screenshots/dashboard.png)
+![Notes Dashboard](Output Screenshoots/Dashboard.png)
 
 ### Add Note
 ![Add Note](screenshots/add-note.png)
