@@ -9,7 +9,6 @@ $controller = new NoteController($db);
 $insert = false;
 $update = false;
 $delete = false;
-
 // DELETE
 if (isset($_GET["delete"])) {
     $controller->delete($_GET["delete"]);
@@ -40,4 +39,5 @@ $notes = $controller->index();
 
 include "views/layout/header.php";
 include "views/notes/index.php";
+
 include "views/layout/footer.php";
